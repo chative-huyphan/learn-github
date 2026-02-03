@@ -1,0 +1,44 @@
+[
+  {
+    "scenario_id": "Gift_Recommendation",
+    "scenario": "Tư vấn chọn quà trang sức cho vợ nhân dịp kỷ niệm ngày cưới.",
+    "user_description": "Khách hàng là một người đàn ông muốn chọn một món quà trang sức cho vợ của mình nhân dịp kỷ niệm ngày cưới. Anh ta cần sự tư vấn và gợi ý từ người bán hàng.",
+    "expected_outcome": "Khách hàng được tư vấn và chọn được một món trang sức phù hợp với sở thích của vợ và mua hàng thành công.",
+    "source_id": "AA01"
+  },
+  {
+    "scenario_id": "TenderHomeBooking",
+    "scenario": "Khách hàng đặt phòng tại Tender Home.",
+    "user_description": "Khách hàng có nhu cầu đặt phòng tại Tender Home, yêu cầu về thời gian và chi nhánh.",
+    "expected_outcome": "Khách hàng đặt phòng thành công, nhận được thông tin chi tiết về giá cả và hướng dẫn thanh toán.",
+    "source_id": "AA02"
+  },
+  {
+    "scenario_id": "OrderTracking",
+    "scenario": "Khách hàng kiểm tra đơn hàng và khiếu nại về tình trạng giao hàng.",
+    "user_description": "Khách hàng đang theo dõi đơn hàng của mình và gặp sự cố về giao hàng. Khách hàng đã cung cấp địa chỉ đúng nhưng vẫn chưa nhận được hàng.",
+    "expected_outcome": "Nhân viên hỗ trợ khách hàng cung cấp thông tin theo dõi đơn hàng, xử lý khiếu nại và đảm bảo khách hàng nhận được hàng.",
+    "source_id": "AA03"
+  },
+  {
+    "scenario_id": "clothing_exchange_policy_dispute",
+    "scenario": "Khách hàng muốn đổi hàng đã mua nhưng cửa hàng không chấp nhận do chính sách.",
+    "user_description": "Một khách hàng buồn bã vì quần áo mà cô ấy mua bị chật và muốn đổi lấy cái khác, nhưng cửa hàng từ chối.",
+    "expected_outcome": "Khách hàng hiểu và chấp nhận quy định của cửa hàng về việc không đổi hàng.",
+    "source_id": "AA05"
+  },
+  {
+    "scenario_id": "Cancellation_Package",
+    "scenario": "Khách hàng phản ánh về việc đã hủy gói cước từ tháng trước nhưng vẫn bị trừ tiền.",
+    "user_description": "Khách hàng gọi điện thoại phản ánh về vấn đề hóa đơn, cho rằng hủy gói cước từ tháng trước nhưng vẫn bị trừ tiền.",
+    "expected_outcome": "Nhân viên hỗ trợ xác nhận tình trạng gói cước của khách hàng, giải thích và hỗ trợ khách hàng hủy gói cước trong tháng tiếp theo.",
+    "source_id": "AA06"
+  },
+  {
+    "scenario_id": "restaurant_booking",
+    "scenario": "A user books a table at a restaurant.",
+    "user_description": "The user wants to book a table at a restaurant for a specific time and number of people.",
+    "expected_outcome": "The user successfully books a table and receives confirmation of the reservation.",
+    "source_id": "AA07"
+  }
+]

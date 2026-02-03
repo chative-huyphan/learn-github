@@ -1,0 +1,37 @@
+[
+  {
+    "scenario_id": "jewelry-gift-selection",
+    "scenario": "A user is looking for a jewelry gift for his wife on their wedding anniversary. The assistant helps him choose the perfect bracelet based on his wife's style and preferences.",
+    "user_description": "The user is a husband looking to buy a bracelet as a gift for his wife's wedding anniversary. He is looking for personalized recommendations and is open to suggestions.",
+    "expected_outcome": "The user receives a tailored recommendation for a bracelet that matches his wife's style and successfully completes the purchase.",
+    "source_id": "AA01"
+  },
+  {
+    "scenario_id": "room_booking_tender_home",
+    "scenario": "User books a room at Tender Home.",
+    "user_description": "The user is a customer looking to book a room at Tender Home. They inquire about availability, specify their preferred branch and time slot, and confirm the booking.",
+    "expected_outcome": "The user successfully books a room at Tender Home and receives payment instructions.",
+    "source_id": "AA02"
+  },
+  {
+    "scenario_id": "order-tracking-issue",
+    "scenario": "A customer is inquiring about the status of their delayed order.",
+    "user_description": "The user is a customer who has not received their order and is contacting customer service to inquire about the order status.",
+    "expected_outcome": "The user receives an update on the order's status and a commitment to resolve the delivery issue.",
+    "source_id": "AA03"
+  },
+  {
+    "scenario_id": "clothing_order_dispute",
+    "scenario": "A customer cancels a clothing order due to a misunderstanding about shipping costs.",
+    "user_description": "The user is a customer who is trying to order a shirt online. They are initially quoted a shipping price and then become upset when they learn the shipping cost is different for their location.",
+    "expected_outcome": "The user cancels their order due to the miscommunication about the shipping fee.",
+    "source_id": "AA04"
+  },
+  {
+    "scenario_id": "clothing_return_dispute",
+    "scenario": "A customer is unhappy because they cannot exchange an item they bought due to the store's policy.",
+    "user_description": "A frustrated customer who bought a clothing item and wants to exchange it for a different size but is unable to due to the store's policy.",
+    "expected_outcome": "The user understands and accepts the store's policy, even if they are not happy about it.",
+    "source_id": "AA05"
+  }
+]
